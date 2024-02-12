@@ -1,0 +1,155 @@
+
+body {
+    background-color: #fcfbfb;
+    font-family: Raleway, Arial, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    margin: 0;
+}
+
+.home-title {
+    font-family: 'Rock Salt', 'kalam', sans-serif;
+    font-size: 2em;
+}
+
+#content {
+    max-width: 1600px;
+    margin: 35px;
+}
+
+main section {
+    text-align: center;
+}
+
+#background {
+    height: 725px;
+}
+
+body {
+    background-color: #fcfbfb; 
+}
+header {
+    background-color:rgba(20,30,13, .7);
+}
+nav a:hover {
+    background-color: black;
+}
+         
+    
+.logo {
+    width: 80px;
+}
+
+.icon {
+    width: 80px;
+}
+
+
+footer a {
+    text-decoration: none; 
+}
+
+#footer-container {
+    background-color: #dcc4a4 ; 
+    padding: 100px; 
+    width: 90%;
+    height: 350px;
+}
+
+footer p {
+    font-size: 1.2em; 
+}
+
+footer p a:hover 
+    text-decoration underline
+    img {
+        display: block; 
+        margin: 0 auto; 
+    }
+
+    .book, .join {
+        background-color: #d9c2a3;
+        color: black;
+        text-decoration: none;
+        font-size: 18px;
+        padding: 15px 30px;
+        margin-top: 50px;
+        border-radius: 5px;
+    }
+    
+    .card-img {
+        border: 10px solid #d9c2a3;
+    }
+    main section img {
+        box-sizing: border-box;
+    }
+
+  
+
+    header {
+
+        place-items: center;
+        image-resolution: 100%;
+    }
+
+    .book, .join {
+        background-color: #d9c2a3;
+        color: black;
+        text-decoration: none;
+        font-size: 18px;
+        padding: 15px 30px;
+        margin-top: 50px;
+    }
+
+    body {
+        background-color: #fcfbfb; 
+    }
+    footer {
+        background-color:rgba(20,30,13, .7);
+    }
+    nav a:hover {
+        background-color: black;
+    }
+
+    
+.hero {
+
+    background-image: url(hero.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+
+
+    text-align: center;
+}
+
+.msg {
+
+    color: white;
+    text-align: center;
+    font-size: 1.25em;
+}
+footer{
+
+    color: white;
+}
+
+.book, .join {
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.card-img {
+    border: 10px solid #d9c2a3;
+}
+main section img {
+    box-sizing: border-box;
+}
